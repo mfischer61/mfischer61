@@ -7,7 +7,7 @@ I build and verify hardware for mission-critical systems: RTL, design verificati
 **Hardware**
 - [rv32i-core-verification](https://github.com/mfischer61/rv32i-core-verification): multicycle RV32I core in SystemVerilog, verified to 100% code coverage with constrained-random stimulus and SVA; found 3 bugs in an unseen pipelined CPU
 - Silicon Jackets (Georgia Tech student chip-design team): digital design, design verification, and physical design onboarding
-- ECE 2031: EVENT_TIMER stopwatch/countdown peripheral for the SCOMP processor in VHDL on a DE10-Standard FPGA
+- [ece2031-event-timer](https://github.com/mfischer61/ece2031-event-timer): EVENT_TIMER stopwatch/countdown peripheral for the SCOMP processor in VHDL on a DE10-Standard FPGA
 - RIC-9000 deuterium-deuterium fusion reactor platform: provisional patent 63/624,189, first-author paper
 
 **Autonomy and embedded**
